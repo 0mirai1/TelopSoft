@@ -1,0 +1,10 @@
+C:\Users\rinei\保存先ファイル\CS-実験用-SoftFile\ScrollText\ScrollText\bin\Debug\ScrollText.exe.config
+C:\Users\rinei\保存先ファイル\CS-実験用-SoftFile\ScrollText\ScrollText\bin\Debug\ScrollText.exe
+C:\Users\rinei\保存先ファイル\CS-実験用-SoftFile\ScrollText\ScrollText\bin\Debug\ScrollText.pdb
+C:\Users\rinei\保存先ファイル\CS-実験用-SoftFile\ScrollText\ScrollText\obj\Debug\ScrollText.csproj.AssemblyReference.cache
+C:\Users\rinei\保存先ファイル\CS-実験用-SoftFile\ScrollText\ScrollText\obj\Debug\ScrollText.Form1.resources
+C:\Users\rinei\保存先ファイル\CS-実験用-SoftFile\ScrollText\ScrollText\obj\Debug\ScrollText.Properties.Resources.resources
+C:\Users\rinei\保存先ファイル\CS-実験用-SoftFile\ScrollText\ScrollText\obj\Debug\ScrollText.csproj.GenerateResource.cache
+C:\Users\rinei\保存先ファイル\CS-実験用-SoftFile\ScrollText\ScrollText\obj\Debug\ScrollText.csproj.CoreCompileInputs.cache
+C:\Users\rinei\保存先ファイル\CS-実験用-SoftFile\ScrollText\ScrollText\obj\Debug\ScrollText.exe
+C:\Users\rinei\保存先ファイル\CS-実験用-SoftFile\ScrollText\ScrollText\obj\Debug\ScrollText.pdb
